@@ -18,7 +18,7 @@ The **UTKFaces** dataset is a large-scale dataset containing over 20,000 face im
 - **Gender**: Male or Female.
 - **Ethnicity**: Categorizations typically include Asian, Black, and White, among others.
 
-The dataset is publicly available on [Kaggle](https://www.kaggle.com/datasets/jessicali9530/utkface-new) and provides a rich resource for training and evaluating machine learning models focused on facial recognition and demographic prediction tasks.
+The dataset is publicly available on [Kaggle]([https://www.kaggle.com/datasets/jangedoo/utkface-new]) and provides a rich resource for training and evaluating machine learning models focused on facial recognition and demographic prediction tasks.
 
 ## Objectives
 
