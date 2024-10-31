@@ -76,5 +76,3 @@ Future endeavors could include:
 By continuing to refine and expand this work, we aim to contribute further to the fields of computer vision and facial recognition.
 
 --- 
-
-Feel free to adjust any sections as necessary to fit your specific project details!
